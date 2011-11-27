@@ -1,6 +1,6 @@
 Name:           piccolo2d
 Version:        1.3
-Release:        8
+Release:        10
 Summary:        Structured 2D graphics toolkit
 
 Group:          Development/Java
